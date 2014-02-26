@@ -24,13 +24,13 @@
 		$(document).ready(function() {
 			$('#api500').click(function() {
 				$.get('/api/500').always(function (data) {
-					$('#api500results').html(data.responseText);
+					$('#api500results').html(data.Message);
 				});
 			});
 
 			$('#api404').click(function () {
 				$.get('/api/404').always(function (data) {
-					$('#api404results').html(data.responseText);
+					$('#api404results').html(data.Message);
 				});
 			});
 
