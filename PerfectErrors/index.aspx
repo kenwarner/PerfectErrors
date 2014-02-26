@@ -12,7 +12,7 @@
 	    <div><a href="/500.aspx">/500.aspx</a></div>
 	    <div><a href="/500/">/500/</a></div>
 	    <div><a id="api500" href="javascript:void();">/api/500/</a></div>
-	    <div><a href="/404/">/404.aspx</a></div>
+	    <div><a href="/404.aspx">/404.aspx</a></div>
 	    <div><a href="/404/">/404/</a></div>
 	    <div><a id="api404" href="javascript:void();">/api/404/</a></div>
 		
